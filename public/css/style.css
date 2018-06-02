@@ -1,0 +1,43 @@
+.navbar-brand{
+	font-size: 32pt !important;
+	margin-left: 15px;
+	color: white !important;
+}
+.logo{
+	
+	height: 72pt !important;
+	width: 72pt !important;
+}
+.nav-link{
+	font-size: 18pt !important;
+	word-spacing: 3px;
+}
+li{
+    margin-left: 32px;
+}
+h1{
+	font-size: 28pt !important;
+}
+h2{
+	font-size: 20pt !important;
+	text-align: center;
+	margin-bottom: 50px;
+	padding-top: 10px;
+}
+h3{
+	font-size: 24pt !important;
+	text-align: center;
+	font-weight: bold !important;
+	margin-bottom: 25px;
+}
+h4{
+	font-size: 25pt !important;
+	text-align: center;
+p{
+	font-size: 200pt !important;
+	text-align: center;
+	line-height: 34px;
+}
+.featurette-image{
+	display:block; margin:0 auto;
+}
